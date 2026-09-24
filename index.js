@@ -40,4 +40,4 @@ const tot_temperature_in_celsius =  day1ConvertedCelsius + day2ConvertedCelsius 
 
   const avg_temperature_in_celsius = tot_temperature_in_celsius /30;
 
-  console.log(avg_temperature_in_celsius)
+  console.log(avg_temperature_in_celsius) 
